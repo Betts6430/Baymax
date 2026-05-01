@@ -1,0 +1,7 @@
+# Request
+string medication_name
+int32 quantity
+---
+# Response
+bool success
+string message
